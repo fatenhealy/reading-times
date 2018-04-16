@@ -3,6 +3,8 @@ Reading Time is a web application that lists staff recommended books.
 
 ## Installing
 
+Vitor was here
+
 ### Prerequisites
 Reading Time requires Java and [Maven](https://maven.apache.org/). It uses an embedded Tomcat servlet container. To test if you have Java and Maven installed open a terminal and type:
 ```
@@ -46,3 +48,5 @@ Read the [CONTRIBUTING](.github/CONTRIBUTING.md) file before contributing to thi
 
 ## License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
+## Stuff
